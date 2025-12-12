@@ -24,6 +24,15 @@ The goal is to determine whether the car can theoretically exceed the **1000 mph
 > **Conclusion**: With the given parameters, the car **approaches but does not exceed** the 1000 mph barrier (447.04 m/s).
 
 ---
+## Project Structure
+src/
+├── main/
+│   └── java/
+│       └── com/aussieinvader/
+│           ├── core/          # Physics model, solvers
+│           ├── gui/           # Swing UI components
+│           └── Main.java      # Entry point
+pom.xml                       # Maven dependencies (JFreeChart)
 
 ## How to Run
 
