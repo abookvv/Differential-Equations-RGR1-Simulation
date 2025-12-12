@@ -25,6 +25,7 @@ The goal is to determine whether the car can theoretically exceed the **1000 mph
 
 ---
 ## Project Structure
+```
 src/
 ├── main/
 │   └── java/
@@ -33,7 +34,7 @@ src/
 │           ├── gui/           # Swing UI components
 │           └── Main.java      # Entry point
 pom.xml                       # Maven dependencies (JFreeChart)
-
+```
 ## How to Run
 
 ### Prerequisites
