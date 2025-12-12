@@ -1,4 +1,4 @@
-# Aussie Invader 5R — Mathematical Simulation 🚀
+# Aussie Invader 5R — Mathematical Simulation 
 
 This project implements a complete simulation of the **Aussie Invader 5R rocket car** motion, based on the physical model from the lab assignment. It includes:
 
@@ -13,7 +13,7 @@ The goal is to determine whether the car can theoretically exceed the **1000 mph
 
 ---
 
-## 🧮 Key Results
+## Key Results
 
 | Method              | Max Speed (m/s) | Max Speed (mph) | Error vs Analytical |
 |---------------------|------------------|------------------|----------------------|
@@ -25,7 +25,7 @@ The goal is to determine whether the car can theoretically exceed the **1000 mph
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 ### Prerequisites
 - Java 11 or higher
